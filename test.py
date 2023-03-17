@@ -6,3 +6,5 @@
 
 # 메인계정: giftedNam
 # 서브계정: 0gifted
+
+# 2번 request
