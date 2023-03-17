@@ -5,6 +5,4 @@
 # 반갑습니다 19학번 남 영재 입니다.
 
 # 메인계정: giftedNam
-# 서브계정: 0gifted
-
-# 2번 request
+# 서브계정: 0gifted
