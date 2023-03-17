@@ -6,10 +6,3 @@
 
 # 메인계정: giftedNam
 # 서브계정: 0gifted
-
-
-# line 10
-# line 11
-# line 12
-# line 13
-# line 14
