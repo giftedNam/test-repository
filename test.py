@@ -6,3 +6,5 @@
 
 # 메인계정: giftedNam
 # 서브계정: 0gifted
+
+# test 입니다.
