@@ -6,5 +6,6 @@
 
 # 메인계정: giftedNam
 # 서브계정: 0gifted
+# Contirbutor: 
 
 # 마지막 수정
