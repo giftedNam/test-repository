@@ -9,3 +9,8 @@
 # Contirbutor: 
 
 # 마지막 수정
+
+# 인사는 예의바르게 10번씩
+for i in range(10):
+  print("안녕하세요", i)
+  
